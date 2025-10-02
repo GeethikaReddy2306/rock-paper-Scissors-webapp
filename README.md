@@ -10,16 +10,6 @@ The player chooses Rock, Paper, or Scissors, and the computer randomly picks its
 - 📱 Fully responsive (works on desktop and mobile)  
 - 💡 Beginner-friendly project using plain HTML, CSS, and JS  
 
-## 📂 Project Structure
-rock-paper-scissors/
-│── index.html # Main HTML file
-│── style.css # Styling (UI, responsive design, images for buttons)
-│── app.js # Game logic (random computer choice + winner check)
-│── rock.png # Rock button image
-│── paper.png # Paper button image
-│── scissors.png # Scissors button image
-│── README.md # Project documentation
-
 ## 🚀 How to Run
 1. Clone or download this repository:
    ```bash
@@ -29,9 +19,6 @@ Open the folder in your editor (VS Code recommended).
 Make sure rock.png, paper.png, and scissors.png are in the same folder as index.html.
 
 Open index.html in your browser and start playing 🎉.
-
-Or play directly here:
-👉 Live Demo
 
 🕹️ How to Play
 Click on Rock, Paper, or Scissors button.
@@ -48,7 +35,11 @@ The result will be shown:
 
 📸 Screenshots
 Game UI
-(Add a screenshot of your game here after running it)
+Laptop view:
+<img width="1857" height="904" alt="laptop view" src="https://github.com/user-attachments/assets/929e3d95-4511-4d3e-b136-b0dd4a9484c7" />
+Mobile view:
+<img width="827" height="930" alt="mobile view" src="https://github.com/user-attachments/assets/b779bc6b-63b5-4fda-9db9-bcf9f9e049bf" />
+
 
 🔮 Future Improvements
 ✅ Add a score counter (track wins/losses/draws)
@@ -69,7 +60,8 @@ JavaScript – game logic
 👩‍💻 Author
 Geethika Reddy
 
-🌐 Live Demo: Rock Paper Scissors Website
+🌐 Live Demo: https://rock-paper-scissors-webapp-two.vercel.app/
+
 
 
 
