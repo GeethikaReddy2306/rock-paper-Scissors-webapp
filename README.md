@@ -60,8 +60,7 @@ JavaScript – game logic
 👩‍💻 Author
 Geethika Reddy
 
-🌐 Live Demo: https://rock-paper-scissors-webapp-two.vercel.app/
-
+🌐 Live Demo: https://rock-paper-scissors-webapp-bay.vercel.app/
 
 
 
